@@ -31,7 +31,7 @@
     "sails"
   ],
   "dependencies": {
-    "newrelic": "^1.40.0"
+    "newrelic": "^2.2.0"
   },
   "devDependencies": {
     "mocha": "*",
